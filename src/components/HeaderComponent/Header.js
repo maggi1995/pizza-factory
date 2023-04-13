@@ -23,7 +23,7 @@ export const Header = () => {
 
 
           <Box sx={{ flexGrow: 1 }} >
-            <AppBar position="sticky" sx={{ backgroundColor: 'pink' }}>
+            <AppBar position="fixed" sx={{ backgroundColor: 'pink' }}>
               <Toolbar>
                 {/* <IconButton
                   size="large"

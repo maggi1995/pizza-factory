@@ -1,5 +1,7 @@
 import VegPizza from "../../assests/veg.jpg"
 import NonVegPizza from "../../assests/non-veg.jpg"
+import drink from "../../assests/drinks.jpeg"
+import cake from "../../assests/cake.jpeg"
 
 const VegetarianList = [
     {
@@ -102,10 +104,12 @@ const NonVegToppings = [
 const sides=[
     {
         name:"Cold drink",
+        image:drink,
         price:55
     },
     {
         name:"Mousse Cake",
+        image:cake,
         price:90
     }
 ]

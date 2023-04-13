@@ -1,0 +1,23 @@
+.footerStyling{
+    background-color: black;
+    height: 450px;
+    color: rgb(255, 255, 255);
+    overflow: hidden;
+}
+.footer-col-2{
+    padding: 70px;
+    text-align: center;
+    transform: translateY(20%);
+}
+.footer-col-3{
+    padding: 30px;
+}
+.menuStyling:hover {
+    
+    cursor: pointer;
+}
+.dialogTitle{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

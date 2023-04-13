@@ -6,7 +6,7 @@ export const Home = () => {
     return (
         <>
             <div className="container" >
-                <div className="row " >
+                <div className="row " style={{marginTop:80}} >
                     <div className="col-md-4 text-center"></div>
                     <div className="col-md-4 text-center">
                         <Typography variant="h4" component="div" sx={{ textAlign: 'center' }}>
